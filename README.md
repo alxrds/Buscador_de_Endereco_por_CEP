@@ -6,9 +6,9 @@ Link do projeto em meu servidor
 https://alexandrerodrigues.com/PHPtest/
 
 Imagens
-![Home](https://alexandrerodrigues.com/PHPtest/prints/1.png)
-![Resultado da Pesquisa](https://alexandrerodrigues.com/PHPtest/prints/2.png)
-![Relatório](https://alexandrerodrigues.com/PHPtest/prints/3.png)
+![Home](https://alexandrerodrigues.com/PHPtest/prints/1.png | width=200)
+![Resultado da Pesquisa](https://alexandrerodrigues.com/PHPtest/prints/2.png | width=200)
+![Relatório](https://alexandrerodrigues.com/PHPtest/prints/3.png | width=200)
 
 Foi usado SQLite para que não seja necessario nenhuma configuração adicional.
 Como usar: 
