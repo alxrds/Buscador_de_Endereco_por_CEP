@@ -2,6 +2,27 @@
 
 Teste de seleção para vaga PHP
 
+Link do projeto em meu servidor
+https://alexandrerodrigues.com/PHPtest/
+
+Imagens
+![Home](https://alexandrerodrigues.com/PHPtest/prints/1.png)
+![Resultado da Pesquisa](https://alexandrerodrigues.com/PHPtest/prints/2.png)
+![Relatório](https://alexandrerodrigues.com/PHPtest/prints/3.png)
+
+Foi usado SQLite para que não seja necessario nenhuma configuração adicional.
+Como usar: 
+
+Faça o clone "git clone https://github.com/alxrds/PHPtest.git"
+
+Habilite o SQLite no seu php.ini no 
+-linux sudo apt-get install php-sqlite3
+-windows require o ";" da linha sqlite3
+
+execute o comando php -S localhost:(umaPortaQualquer)
+
+Abaixo as Instruções sobre o teste:
+
 ## Faça um fork desse projeto e siga as intruções a seguir utilizando esse projeto.
 
 Construir uma aplicação web para buscar endereço. 
