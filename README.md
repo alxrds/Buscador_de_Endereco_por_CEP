@@ -11,6 +11,8 @@ Imagens
 ![img|320](https://alexandrerodrigues.com/PHPtest/prints/2.png)
 ![img|320](https://alexandrerodrigues.com/PHPtest/prints/3.png)
 
+<img src="https://alexandrerodrigues.com/PHPtest/prints/3.png" width="200">
+
 Foi usado SQLite para que não seja necessario nenhuma configuração adicional.
 Como usar: 
 
