@@ -7,10 +7,10 @@ https://alexandrerodrigues.com/PHPtest/
 
 Imagens
 
-<img src="https://alexandrerodrigues.com/PHPtest/prints/1.png" width="300">
-<img src="https://alexandrerodrigues.com/PHPtest/prints/2.png" width="300">
-<img src="https://alexandrerodrigues.com/PHPtest/prints/4.png" width="300">
-<img src="https://alexandrerodrigues.com/PHPtest/prints/3.png" width="300">
+<img src="https://alexandrerodrigues.com/PHPtest/prints/1.png" width="500">
+<img src="https://alexandrerodrigues.com/PHPtest/prints/2.png" width="500">
+<img src="https://alexandrerodrigues.com/PHPtest/prints/4.png" width="500">
+<img src="https://alexandrerodrigues.com/PHPtest/prints/3.png" width="500">
 
 Foi usado SQLite para que não seja necessario nenhuma configuração adicional.
 Como usar: 
