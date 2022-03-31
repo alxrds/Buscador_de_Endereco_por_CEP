@@ -13,13 +13,17 @@ Imagens
 <img src="https://alexandrerodrigues.com/PHPtest/prints/3.png" width="500">
 
 Foi usado SQLite para que não seja necessario nenhuma configuração adicional.
+
 Como usar: 
 
 Faça o clone "git clone https://github.com/alxrds/PHPtest.git"
 
+Caso o SQLite não esteja habilitado em seu PHP
 Habilite o SQLite no seu php.ini no 
 -linux sudo apt-get install php-sqlite3
--windows require o ";" da linha sqlite3
+-windows retire o ";" das linhas 
+"extension=php_pdo.dll" e
+"extension=php_sqlite.dll"
 
 execute o comando php -S localhost:(umaPortaQualquer)
 
