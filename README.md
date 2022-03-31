@@ -30,7 +30,7 @@ Habilite o SQLite no seu php.ini no
 
 "extension=php_sqlite.dll"
 
-execute o comando php -S localhost:(umaPortaQualquer)
+Abra o prompt de comando e execute php -S localhost:8085 (a porta pode se qualquer outra)
 
 Abaixo as Instruções sobre o teste:
 
