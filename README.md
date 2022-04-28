@@ -16,7 +16,7 @@ Foi usado SQLite para que não seja necessario nenhuma configuração adicional.
 
 Como usar: 
 
-Faça o clone "git clone https://github.com/alxrds/PHPtest.git"
+Faça o clone "git clone gh repo clone alxrds/Buscador_de_Endereco_por_CEP"
 
 Caso o SQLite não esteja habilitado em seu PHP
 
