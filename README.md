@@ -1,6 +1,6 @@
-# PHPtest
+# Buscador de CEP
 
-Buscador de endereço por CEP
+### Buscador de endereço por CEP usando PHP, CSS, HTML, JavaScript e PDO com MySQL
 
 Link do projeto em meu servidor
 https://alexandrerodrigues.com/PHPtest/
